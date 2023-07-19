@@ -13,10 +13,12 @@ Inference Models:
 * SAM
 * Med-SAM
 
-We create extrapolation from the results of the Fast-SAM and Med-SAM performance on these medical segmentation datasets and implement these to show contrast form the Vanilla Segment Anything Model. The conclusion led to the formation of Fast Medical SAM.(FaM-SAM)
+We create extrapolation from the Fast-SAM and Med-SAM performance results on these medical segmentation datasets and implement these to show contrast from the Vanilla Segment Anything Model. The conclusion led to the formation of Fast Medical SAM. (FaM-SAM)
 
 Notebooks and codes:
 * ` Notebooks/FastSAM - SAM/CT-Scan-Covid-19.ipynb `
 * ` Notebooks/FastSAM - SAM/Lung-Covid-19.ipynb `
 * ` Notebooks/MedSAM/Lung-Covid-19.ipynb `
 * ` Notebooks/MedSAM/breast-cancer.ipynb `
+
+Also, check [https://github.com/Pushkar1853/HF-Medical-imaging](https://github.com/Pushkar1853/HF-Medical-imaging) for other scripts and notebooks used in the document.
